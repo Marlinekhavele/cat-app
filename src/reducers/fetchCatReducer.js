@@ -1,0 +1,3 @@
+const fetchCatReducer =(state = [],action)=>{
+    
+}
